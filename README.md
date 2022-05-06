@@ -30,13 +30,13 @@ This is Excel Clone with very good features.
 
 ## Screenshots
 
-#Image 1
+# Image 0
 ![Screenshot](Excel1.png)
-#Image 2
+# Image 1
 ![alt text](https://github.com/aryang23/Excel-Clone/blob/main/Excel2.png)
-#Image 3
+# Image 2
 ![alt text](https://github.com/aryang23/Excel-Clone/blob/main/Excel%203.png)
-#Image 4
+# Image 3
 ![Screenshot](Excel4.png)
 ## 🚀 About Me
 I'm a full stack developer...
