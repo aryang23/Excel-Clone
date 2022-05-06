@@ -31,8 +31,8 @@ This is Excel Clone with very good features.
 ## Screenshots
 
 
-![alt text] (https://github.com/aryang23/Excel-Clone/blob/main/Excel1.png)
-![alt text] (https://github.com/aryang23/Excel-Clone/blob/main/Excel2.png)
+![Screenshot](Excel1.png)
+![alt text](https://github.com/aryang23/Excel-Clone/blob/main/Excel2.png)
 ![alt text] (https://github.com/aryang23/Excel-Clone/blob/main/Excel%203.png)
 ![alt text] (https://github.com/aryang23/Excel-Clone/blob/main/Excel4.png)
 
