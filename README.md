@@ -35,7 +35,7 @@ This is Excel Clone with very good features.
 #Image 2
 ![alt text](https://github.com/aryang23/Excel-Clone/blob/main/Excel2.png)
 #Image 3
-![Screenshot](Excel 3.png)
+![alt text](https://github.com/aryang23/Excel-Clone/blob/main/Excel%203.png)
 #Image 4
 ![Screenshot](Excel4.png)
 ## 🚀 About Me
