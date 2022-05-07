@@ -1,8 +1,6 @@
 # Excel Clone
 
-A brief description of what this project does and who it's for
-
-This is Excel Clone with very good features.
+A brief description: -
 
 
 1. You can add text, change styling like bold, italics and underline of the text.
